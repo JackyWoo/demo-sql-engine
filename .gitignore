@@ -1,0 +1,27 @@
+# Compiled class file
+*.class
+
+# Log files
+*.log
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Maven specific files
+target/
+
+# Gradle specific files
+build/
+
+# IntelliJ IDEA specific files
+.idea/
+
+# Eclipse specific files
+.classpath
+.project
+.settings/
+
+
+
